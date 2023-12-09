@@ -1,7 +1,8 @@
 # week_10
 
-## We expect you to receive these certificate.
+Sizlerden asagidaki linktte detayli anlatimi bulunan mini projeyi tamamlamaniz beklenmektedir.
 
-- https://university.mongodb.com/courses/M001/about
+https://werhere-it-academy.gitbook.io/werhere-it-academy-handbook/database-modulu/3.hafta/database-project 
+
 
 ### GoodLuck :)
