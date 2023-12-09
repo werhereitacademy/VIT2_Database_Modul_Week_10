@@ -1,4 +1,4 @@
-# Database-Module-Week10
+# VIT2 Database-Module-Week10
 
 Sizlerden asagidaki linktte detayli anlatimi bulunan mini projeyi tamamlamaniz beklenmektedir.
 
